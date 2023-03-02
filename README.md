@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+São+Pedro;I'm+21+years+old;I'm+from+Brazil;I'm+studying+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
    
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gabriel-Sao-Pedro&bg_color=1b181a&color=ededed&line=3c0bc1&point=e52a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gabriel-Sao-Pedro&bg_color=050505&color=f6eff5&line=1203e2&point=ec0909&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Sao-Pedro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />

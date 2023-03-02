@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Sao-Pero&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Caroline Barbosa github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Sao-Pero&layout=compact&hide_border=true&theme=dracula" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Sao-Pedro&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Gabriel São Pedro github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Sao-Pedro&layout=compact&hide_border=true&theme=dracula" />
 </div>
 
 <div align="center"> 

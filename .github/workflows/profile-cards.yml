@@ -1,4 +1,4 @@
-120493037name: Update Profile Cards
+name: Update Profile Cards
 
 on:
   schedule:

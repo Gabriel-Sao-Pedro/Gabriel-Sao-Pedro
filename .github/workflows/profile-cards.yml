@@ -2,8 +2,8 @@ name: Update Profile Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda 1x por dia, meia-noite UTC
-  workflow_dispatch:        # permite rodar manualmente também
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   snake:
@@ -26,7 +26,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
- streak:
+  streak:
     runs-on: ubuntu-latest
     permissions:
       contents: write

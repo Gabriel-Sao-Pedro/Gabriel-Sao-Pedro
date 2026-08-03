@@ -26,19 +26,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  streak:
+ streak:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@v3
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user_id: 120493037
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit SVG
+          options: user=Gabriel-Sao-Pedro&theme=dark&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit streak stats
         run: |
           mkdir -p profile
           git config user.name "github-actions[bot]"
